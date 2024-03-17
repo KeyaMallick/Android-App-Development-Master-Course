@@ -1,0 +1,10 @@
+Q1. Linearlayout
+Q2. All the above
+Q3. Padding is the space inside the border, Margins are the spaces outside the border
+Q4. Option A and C are correct.
+Q5. 2 and 3
+Q6. Set the content of the Views at centre
+Q7. Picasso
+Q8. requestFocus()
+Q9. Both B and C are correct
+Q10. set android:orientation
